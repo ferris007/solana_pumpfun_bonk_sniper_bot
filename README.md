@@ -84,12 +84,3 @@ Rename the .env.example file to .env and set RPC and WSS, main keypair's secret 
 ```
 npm start
 ```
-
-
-## Author
-
-Discord: takhi777 in discord
-
-Telegram: [@Takhi](https://t.me/@hi_3333)
-
-You can always feel free to find me here for my help on other projects.
